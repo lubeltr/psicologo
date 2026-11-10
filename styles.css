@@ -45,3 +45,5 @@ body{background:#f3f8f8}.hero-bottom path{fill:#e7f1f3}.credentials{background:t
 }
 @keyframes mobile-intro{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
 @keyframes mobile-water{from{transform:translateY(3px) scaleX(1.03) rotate(-1deg)}to{transform:translateY(-5px) scaleX(1.08) rotate(1deg)}}
+
+.menu-dialog nav a>.arrow{margin-left:auto;width:20px;height:20px;flex-shrink:0}
